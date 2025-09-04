@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for pycon-sg-2025 on 2025-06-16T17:04:26Z
+# fly.toml app configuration file generated for pycon-sg-2025 on 2025-09-04T20:12:53Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
 app = 'pycon-sg-2025'
-primary_region = 'hkg'
+primary_region = 'syd'
 
 [build]
 
